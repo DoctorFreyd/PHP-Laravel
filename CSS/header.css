@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dropdown-item>a:hover{
+    color: #000 !important;
+}
+#sbox{
+    width: 300px !important; 
+    height: 350px !important;
+    padding: 20px !important;
+    box-sizing: border-box !important;
+    position: absolute !important;
+    top:55px !important;
+    right: 0px;
+    z-index: 999;
+    overflow-y: scroll;
+    display: none;
+}
+.btnAdd{
+    width: 40px;
+    height: 40px;
+    border: none;
+    color: #20c997;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+.btnAdd:hover{
+    background: #20c997;
+    opacity: 0.5;
+    color: white;
+    transition: 0.7s;
+}
+.btnAdd1{
+    width: 40px;
+    height: 40px;
+    border: none;
+    color: #20c997;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+.btnAdd1:hover{
+    background: #20c997;
+    opacity: 0.5;
+    color: white;
+    transition: 0.7s;
+}
+.btnRefuse{
+    width: 40px;
+    height: 40px;
+    border: none;
+    color: #20c997;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+.btnRefuse:hover{
+    background: #20c997;
+    opacity: 0.5;
+    color: white;
+    transition: 0.7s;
+}
+.btnSelect{
+    width: 40px;
+    height: 40px;
+    border: none;
+    color: #20c997;
+    border-radius: 50%;
+    position: absolute;
+    right: 55px;
+    top: 5px;
+}
+.btnSelect:hover{
+    background: #20c997;
+    opacity: 0.5;
+    color: white;
+    transition: 0.7s;
+}
+.btnDel{
+    width: 40px;
+    height: 40px;
+    border: none;
+    color: #20c997;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+.btnDel:hover{
+    background: #20c997;
+    opacity: 0.5;
+    color: white;
+    transition: 0.7s;
+}
